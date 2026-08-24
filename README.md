@@ -8,8 +8,8 @@
 </div>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/kauany-couto000000/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:kauanycouto0@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/kauany-couto000000/"><img src="https://img.shields.io/badge/LinkedIn-9B59B6?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:kauanycouto0@gmail.com"><img src="https://img.shields.io/badge/Gmail-FF1D8D?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
  <table>
@@ -32,13 +32,13 @@ Oii, eu me chamo Kauany e sou estudante de Análise e Desenvolvimento de Sistema
 ---
 
 ### Ferramentas
-![HTML5](https://img.shields.io/badge/HTML5-000000)
-![CSS3](https://img.shields.io/badge/CSS-000000)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000)
-![MySQL](https://img.shields.io/badge/MySQL-000000)
-![Git](https://img.shields.io/badge/Git-000000)
+![HTML5](https://img.shields.io/badge/HTML5-9B59B6)
+![CSS3](https://img.shields.io/badge/CSS-FF1D8D)
+![JavaScript](https://img.shields.io/badge/JavaScript-9B59B6)
+![MySQL](https://img.shields.io/badge/MySQL-FF1D8D)
+![Git](https://img.shields.io/badge/Git-9B59B6)
 
 ---
 
 ### Estatísticas
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=kauanycouto0-boop&theme=midnight-purple)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=kauanycouto0-boop&theme=#FF1D8D)
