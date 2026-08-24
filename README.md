@@ -1,4 +1,7 @@
-<img width="736" height="414" alt="Wallpaper" src="https://github.com/user-attachments/assets/6525566b-bca1-484c-b6db-4b03af4be6be" />
+<div align="center">
+  <img width="100%" height="200px" style="object-fit: cover;" alt="Wallpaper" src="https://github.com/user-attachments/assets/6525566b-bca1-484c-b6db-4b03af4be6be" />
+</div>
+
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/kauanycouto0-boop/kauanycouto0-boop/main/banner.gif" width="100%" />
