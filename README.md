@@ -32,13 +32,13 @@ Oii, eu me chamo Kauany e sou estudante de Análise e Desenvolvimento de Sistema
 ---
 
 ### Ferramentas
-![HTML5](https://img.shields.io/badge/HTML5-9B59B6)
-![CSS3](https://img.shields.io/badge/CSS-FF1D8D)
-![JavaScript](https://img.shields.io/badge/JavaScript-9B59B6)
-![MySQL](https://img.shields.io/badge/MySQL-FF1D8D)
-![Git](https://img.shields.io/badge/Git-9B59B6)
+![HTML5](https://img.shields.io/badge/HTML5-FF1D8D)
+![CSS3](https://img.shields.io/badge/CSS-9B59B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-FF1D8D)
+![MySQL](https://img.shields.io/badge/MySQL-9B59B6)
+![Git](https://img.shields.io/badge/Git-FF1D8D)
 
 ---
 
 ### Estatísticas
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=kauanycouto0-boop&theme=#FF1D8D)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=kauanycouto0-boop&theme=midnight-purple)
