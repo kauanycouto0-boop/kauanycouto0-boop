@@ -43,5 +43,4 @@ Oii, eu me chamo Kauany e sou estudante de Análise e Desenvolvimento de Sistema
 ### Estatísticas
 
 ### Estatísticas
-![Kau's GitHub stats](https://github-readme-stats.vercel.app/api?username=kauanycouto0-boop&show_icons=true&theme=midnight-purple)
-![Streak](https://streak-stats.demolab.com/?user=kauanycouto0-boop&theme=midnight-purple)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=kauanycouto0-boop&theme=midnight-purple)
