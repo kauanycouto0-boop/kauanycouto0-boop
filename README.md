@@ -39,6 +39,9 @@ Oii, eu me chamo Kauany e sou estudante de Análise e Desenvolvimento de Sistema
 ![Git](https://img.shields.io/badge/Git-000000)
 
 ---
+
 ### Estatísticas
-![Kau's GitHub stats](https://github-readme-stats.vercel.app/api?username=kauanycouto0-boop&show_icons=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=kauanycouto0-boop&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff)
+
+### Estatísticas
+![Kau's GitHub stats](https://github-readme-stats.vercel.app/api?username=kauanycouto0-boop&show_icons=true&theme=midnight-purple)
+![Streak](https://streak-stats.demolab.com/?user=kauanycouto0-boop&theme=midnight-purple)
