@@ -31,7 +31,7 @@ Oii, eu me chamo Kauany e sou estudante de Análise e Desenvolvimento de Sistema
 
 ---
 
-### Ferramentas e Tecnologias
+### Ferramentas
 ![HTML5](https://img.shields.io/badge/HTML5-000000)
 ![CSS3](https://img.shields.io/badge/CSS-000000)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000)
