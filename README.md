@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/kauany-couto000000/"><img src="https://img.shields.io/badge/LinkedIn-9B59B6?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/kauany-couto000000/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:kauanycouto0@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
@@ -22,7 +22,8 @@ Oii, eu me chamo Kauany e sou estudante de Análise e Desenvolvimento de Sistema
 <td width="30%">
 <img width="277" height="277" alt="moon GIF" src="https://github.com/user-attachments/assets/cb32de9b-fa04-45c8-b38a-7e3a60785b7e" />
 
-width="100%" /> </td>
+  <width="100%" />
+</td>
    </tr> 
  </table>
 
@@ -42,4 +43,4 @@ width="100%" /> </td>
 ### Estatísticas
 
 ![Kau's GitHub stats](https://github-readme-stats.vercel.app/api?username=kauanycouto0-boop&show_icons=true&theme=midnight-purple)
-
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=kauanycouto0-boop&theme=midnight-purple)
