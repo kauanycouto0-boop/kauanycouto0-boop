@@ -31,7 +31,7 @@ Oii, eu me chamo Kauany e sou estudante de Análise e Desenvolvimento de Sistema
 
 ---
 
-### Tecnologias e Ferramentas
+### Ferramentas e Tecnologias
 ![HTML5](https://img.shields.io/badge/HTML5-000000)
 ![CSS3](https://img.shields.io/badge/CSS-000000)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000)
@@ -39,8 +39,6 @@ Oii, eu me chamo Kauany e sou estudante de Análise e Desenvolvimento de Sistema
 ![Git](https://img.shields.io/badge/Git-000000)
 
 ---
-
-### Estatísticas
 
 ### Estatísticas
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=kauanycouto0-boop&theme=midnight-purple)
