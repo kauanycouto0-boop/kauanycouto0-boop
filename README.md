@@ -31,6 +31,7 @@ Oii, eu me chamo Kauany e sou estudante de Análise e Desenvolvimento de Sistema
 
 ---
 
+<div align="center">
 ### Ferramentas
 ![HTML5](https://img.shields.io/badge/HTML5-FF1D8D)
 ![CSS3](https://img.shields.io/badge/CSS-9B59B6)
@@ -38,6 +39,7 @@ Oii, eu me chamo Kauany e sou estudante de Análise e Desenvolvimento de Sistema
 ![MySQL](https://img.shields.io/badge/MySQL-9B59B6)
 ![Git](https://img.shields.io/badge/Git-FF1D8D)
 ![Python](https://img.shields.io/badge/Python-9B59B6)
+</div>
 
 ---
 
