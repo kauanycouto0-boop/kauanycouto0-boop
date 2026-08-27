@@ -45,15 +45,3 @@ Oii, eu me chamo Kauany e sou estudante de Análise e Desenvolvimento de Sistema
 
 ---
 
-<div align="center">
-  
-  <img src="https://raw.githubusercontent.com/kauanycouto0-boop/kauanycouto0-boop/main/assets/stats-card.svg" width="100%" />
-  
-</div>
-
-
-<div align="center">
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kauanycouto0-boop&theme=react-dark&hide_border=true&area=true" width="100%" />
-  
-</div>
