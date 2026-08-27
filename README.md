@@ -31,15 +31,23 @@ Oii, eu me chamo Kauany e sou estudante de Análise e Desenvolvimento de Sistema
 
 ---
 
-### Ferramentas
-![HTML5](https://img.shields.io/badge/HTML5-FF1D8D)
-![CSS3](https://img.shields.io/badge/CSS-9B59B6)
-![JavaScript](https://img.shields.io/badge/JavaScript-FF1D8D)
-![MySQL](https://img.shields.io/badge/MySQL-9B59B6)
-![Git](https://img.shields.io/badge/Git-FF1D8D)
-![Python](https://img.shields.io/badge/Python-9B59B6)
+<div align="center">
+
+###  Tecnologias e Ferramentas
+![HTML5](https://img.shields.io/badge/HTML5-FF1D8D?style=for-the-badge)
+![CSS3](https://img.shields.io/badge/CSS-9B59B6?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-FF1D8D?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-9B59B6?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-FF1D8D?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-9B59B6?style=for-the-badge)
+
+</div>
 
 ---
 
+<div align="center">
+
 ### Estatísticas
-![Minhas stats](https://github-readme-stats.vercel.app/api?username=kauanycouto0-boop&show_icons=true&theme=midnight-purple)
+![Minhas stats](https://github-readme-stats.vercel.app/api?username=kauanycouto0-boopicons=true&theme=midnight-purple)
+
+</div>
