@@ -8,8 +8,8 @@
 </div>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/kauany-couto-0914a142b/"><img src="https://img.shields.io/badge/LinkedIn-9B59B6?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:kauanycouto0@gmail.com"><img src="https://img.shields.io/badge/Gmail-FF1D8D?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/kauany-couto-0914a142b/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:kauanycouto0@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
  <table>
@@ -42,10 +42,6 @@ Oii, eu me chamo Kauany e sou estudante de Análise e Desenvolvimento de Sistema
 <table>
 <tr>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-<br>React
-</td>
-<td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
 <br>JavaScript
 </td>
@@ -67,10 +63,6 @@ Oii, eu me chamo Kauany e sou estudante de Análise e Desenvolvimento de Sistema
 ### Backend Development
 <table>
 <tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
-<br>PHP
-</td>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
 <br>Java
@@ -116,10 +108,13 @@ Oii, eu me chamo Kauany e sou estudante de Análise e Desenvolvimento de Sistema
 
 ---
 
+<div align="left">
+
 ### Current Focus & Interests
 
 ```javascript
 const kau = {
+
     currentStatus: "Estudante de ADS, buscando primeira oportunidade em TI",
     skills: ["HTML", "CSS", "JavaScript", "Python", "Git/GitHub", "SQL (iniciante)"],
     focusAreas: ["Desenvolvimento Frontend"],
@@ -128,6 +123,8 @@ const kau = {
     futureGoals: ["Conseguir primeira vaga em TI", "Aprofundar em Frontend"]
 };
 ```
+
+</div>
 
 
 ---
