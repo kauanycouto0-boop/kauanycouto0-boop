@@ -61,14 +61,6 @@ Oii, eu me chamo Kauany e sou estudante de Análise e Desenvolvimento de Sistema
 <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
 <br>CSS3
 </td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter" />
-<br>Flutter
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vite" />
-<br>Vite
-</td>
 </tr>
 </table>
 
@@ -80,8 +72,8 @@ Oii, eu me chamo Kauany e sou estudante de Análise e Desenvolvimento de Sistema
 <br>PHP
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
-<br>Laravel
+<img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+<br>Java
 </td>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
@@ -106,10 +98,6 @@ Oii, eu me chamo Kauany e sou estudante de Análise e Desenvolvimento de Sistema
 <br>MySQL
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
-<br>MariaDB
-</td>
-<td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
 <br>Git
 </td>
@@ -120,10 +108,6 @@ Oii, eu me chamo Kauany e sou estudante de Análise e Desenvolvimento de Sistema
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
 <br>Linux
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
-<br>Postman
 </td>
 </tr>
 </table>
@@ -145,17 +129,6 @@ const kau = {
 };
 ```
 
----
-
-  ### SKILLS
-![HTML5](https://img.shields.io/badge/HTML5-FF1D8D?style=for-the-badge)
-![CSS3](https://img.shields.io/badge/CSS-9B59B6?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-FF1D8D?style=for-the-badge)
-![MySQL](https://img.shields.io/badge/MySQL-9B59B6?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-FF1D8D?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-9B59B6?style=for-the-badge)
-
-</div>
 
 ---
 
