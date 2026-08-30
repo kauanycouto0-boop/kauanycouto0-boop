@@ -33,6 +33,120 @@ Oii, eu me chamo Kauany e sou estudante de Análise e Desenvolvimento de Sistema
 
 <div align="center">
 
+
+## Tech Stack
+
+<div align="center">
+
+### Frontend Development
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+<br>React
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+<br>JavaScript
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
+<br>TypeScript
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+<br>HTML5
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
+<br>CSS3
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter" />
+<br>Flutter
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vite" />
+<br>Vite
+</td>
+</tr>
+</table>
+
+### Backend Development
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
+<br>PHP
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
+<br>Laravel
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+<br>Node.js
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+<br>Python
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
+<br>C++
+</td>
+</tr>
+</table>
+
+### Database & DevOps
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+<br>MySQL
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+<br>MariaDB
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+<br>Git
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+<br>GitHub
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+<br>Linux
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
+<br>Postman
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+### Current Focus & Interests
+
+```javascript
+const kau = {
+    currentStatus: "Estudante de ADS, buscando primeira oportunidade em TI",
+    skills: ["HTML", "CSS", "JavaScript", "Python", "Git/GitHub", "SQL (iniciante)"],
+    focusAreas: ["Desenvolvimento Frontend"],
+    learning: ["Banco de Dados", "C++", "Figma"],
+    projects: ["Chatbot com Flask + API Groq", "Task list com tema claro/escuro", "Apostilas de estudo em HTML5, CSS, BD e Git"],
+    futureGoals: ["Conseguir primeira vaga em TI", "Aprofundar em Frontend"]
+};
+```
+
+---
+
   ### SKILLS
 ![HTML5](https://img.shields.io/badge/HTML5-FF1D8D?style=for-the-badge)
 ![CSS3](https://img.shields.io/badge/CSS-9B59B6?style=for-the-badge)
