@@ -46,10 +46,6 @@ Oii, eu me chamo Kauany e sou estudante de Análise e Desenvolvimento de Sistema
 <br>JavaScript
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
-<br>TypeScript
-</td>
-<td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
 <br>HTML5
 </td>
@@ -96,10 +92,6 @@ Oii, eu me chamo Kauany e sou estudante de Análise e Desenvolvimento de Sistema
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
 <br>GitHub
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-<br>Linux
 </td>
 </tr>
 </table>
